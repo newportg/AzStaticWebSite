@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System;
 using HeyRed.Mime;
 
-namespace AzWebsite
+namespace AzStaticWebsite
 {
     public static class Function1
     {
